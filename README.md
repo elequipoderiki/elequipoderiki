@@ -6,7 +6,7 @@ Me llamo Ricardo, soy de Argentina y me encanta todo lo relacionado a tecnologí
 #### A que tecnologías me oriento?
 He realizado muchas prácticas en data, la mayoría son proyectos personales, y me interesa tanto Ingeniería de datos, como Análisis de datos y Ciencia de datos.
 
-También tengo experiencia, en proyectos académicos, en desarrollo Fullstack, tanto Frontend como Backend.
+También tengo experiencia en desarrollo Fullstack, la mayoría en proyectos académicos, tanto Frontend como Backend.
 
 Mis lenguajes de cabecera son Python, C# y Javascript.
 
