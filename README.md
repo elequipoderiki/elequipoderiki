@@ -14,3 +14,6 @@ Herramientas que me gustan son VSCode, PowerBI, GIT, Azure.
 
 #### En que me ocupo actualmente?
 Soy estudiante de Ciencias de la Computación en la UBA, y he recibido el título de Analista Universitario de Computación. Curso los últimos años de la carrera.
+
+#### Contacto
+Mi [Linkedin](https://www.linkedin.com/in/ricardo-german-ramos/)
